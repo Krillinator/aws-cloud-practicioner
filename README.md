@@ -39,9 +39,10 @@ A clean screenshot of one of the document pages.
 The main learning document can be found in this repository:
 
 - [Open the AWS learning document](./AWS_Cloud_Practical_Introduction.pdf) Material 01 - Start here
-- [Open the AWS learning document](./AWS_Cloud_Practical_Introduction_Network.pdf) Material 02 - Networking
-- [Open the AWS learning document](./AWS_Cloud_Practical_Introduction_Pricing.pdf) Material 03 - Pricing
-- [Open the AWS learning document](./AWS_Cloud_Practical_Introduction_RDS_Migration.pdf) Material 04 - RDS Migration
-- [Open the AWS learning document](./AWS_Cloud_Practical_Introduction_VPC_Peering.pdf) Material 05 - VPC Peering
-- [Open the AWS learning document](./AWS_Cloud_Practical_Introduction_File_System.pdf) Material 06 - EFS (Elastic File System)
+- [Part II](./AWS_Cloud_Practical_Introduction_Network.pdf) Material 02 - Networking
+- [Part III](./AWS_Cloud_Practical_Introduction_Pricing.pdf) Material 03 - Pricing
+- [Part IV](./AWS_Cloud_Practical_Introduction_RDS_Migration.pdf) Material 04 - RDS Migration
+- [Part V](./AWS_Cloud_Practical_Introduction_VPC_Peering.pdf) Material 05 - VPC Peering
+- [Part VI](./AWS_Cloud_Practical_Introduction_File_System.pdf) Material 06 - EFS (Elastic File System)
+- [Part VII](./AWS_Cloud_Practical_Introduction_DynamoDB.pdf) Material 07 - DynamoDB (first NoSQL Database)
 
