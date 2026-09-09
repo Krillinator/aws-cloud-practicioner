@@ -45,4 +45,5 @@ The main learning document can be found in this repository:
 - [Part V](./AWS_Cloud_Practical_Introduction_VPC_Peering.pdf) Material 05 - VPC Peering
 - [Part VI](./AWS_Cloud_Practical_Introduction_File_System.pdf) Material 06 - EFS (Elastic File System)
 - [Part VII](./AWS_Cloud_Practical_Introduction_DynamoDB.pdf) Material 07 - DynamoDB (first NoSQL Database)
+- [Part VIII](./AWS_Cloud_Practical_Introduction_Auto_Scaling_Healing.pdf) Material 08 - Auto Scaling Groups (Healing & CloudWatch)
 
